@@ -4,6 +4,8 @@ Checklists for the Quad Randomizer + OoTR
 I don't like that most trackers use location names like "Compass Chest" and "Map Chest," so I wrote this up to have names that you can (hopefully) understand even if you've never played the games before. It also tells you if a check requires the Lamp, Fire Rod, or Magic Mirror, as a little bonus. 
 Currently only has A Link to the Past.
 
+This was specifically set up for Firefox, and it doesn't look right on other browsers. I don't know how to remedy this.
+
 Get the Quad Randomizer [here](https://quad.beta.samus.link/)
 
 Get OoTR [here](https://ootrandomizer.com/)
